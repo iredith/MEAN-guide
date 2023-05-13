@@ -44,3 +44,14 @@ Requirements
   - mongoDB
   - express related packages for BE
 
+#### 1. Angular
+
+  - New App is created then need to add in declarations section in module
+  - Add FormsModule for directives to work like ngModel for inbuilt declaration and add it in imports section in module.
+
+To Assign Values to component
+  1. To set values from imput we can use `#postInput` and use it as function parameters. It provies element
+  2. Using directives like ngModel
+
+Angular Material can be used for prebuilt components
+
